@@ -7,3 +7,7 @@ c=10
 d=5
 print(c-d)
 
+a=20
+b=4
+print(a*b)
+
